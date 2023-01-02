@@ -1,9 +1,9 @@
-[submodule "Backend"]
-	path = Backend
-	url = git@github.com:unitn-se-T10/Backend.git
-[submodule "Frontend"]
-	path = Frontend
-	url = git@github.com:unitn-se-T10/Frontend.git
 [submodule "Documents"]
 	path = Documents
 	url = git@github.com:unitn-se-T10/Documents.git
+[submodule "Deliverables"]
+	path = Deliverables
+	url = git@github.com:unitn-se-T10/Deliverables.git
+[submodule "Codebase"]
+	path = Codebase
+	url = git@github.com:unitn-se-T10/Codebase.git
